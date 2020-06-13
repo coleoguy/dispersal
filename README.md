@@ -1,0 +1,1 @@
+This repository has all files necessary for reproducing the analyses and figures in the manuscript: The March of the Beetles: epistatic components dominate divergence in dispersal tendency in T. castaneum
